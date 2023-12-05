@@ -16,7 +16,7 @@ ___
 - [ ] Sum of Two Integers
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
-- [ ] Missing Number
+- [x] Missing Number
 - [ ] Reverse Bits
 ___
 ## Dynamic Programming
