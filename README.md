@@ -3,7 +3,7 @@
 ## Array
 - [x] Two Sum
 - [ ] Best Time to Buy and Sell Stock
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
@@ -82,7 +82,7 @@ ___
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Binary Tree Level Order Traversal
 - [ ] Serialize and Deserialize Binary Tree
-- [ ] Subtree of Another Tree
+- [x] Subtree of Another Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
