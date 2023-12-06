@@ -70,7 +70,7 @@ ___
 - [x] Valid Anagram
 - [ ] Group Anagrams
 - [ ] Valid Parentheses
-- [ ] Valid Palindrome
+- [x] Valid Palindrome
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 - [ ] Encode and Decode Strings (Leetcode Premium)
