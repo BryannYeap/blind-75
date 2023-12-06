@@ -67,7 +67,7 @@ ___
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
-- [ ] Valid Anagram
+- [x] Valid Anagram
 - [ ] Group Anagrams
 - [ ] Valid Parentheses
 - [ ] Valid Palindrome
