@@ -60,7 +60,7 @@ ___
 ## Matrix
 - [ ] Set Matrix Zeroes
 - [ ] Spiral Matrix
-- [ ] Rotate Image
+- [x] Rotate Image
 - [ ] Word Search
 ___
 ## String
