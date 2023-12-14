@@ -6,3 +6,4 @@
 ## Could not solve
 - Maximum Subarray
 - Product of Array Except Self
+- Maximum Product Subarray
