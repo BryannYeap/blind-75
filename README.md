@@ -7,7 +7,7 @@
 - [x] Product of Array Except Self
 - [x] Maximum Subarray
 - [x] Maximum Product Subarray
-- [ ] Find Minimum in Rotated Sorted Array
+- [x] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
 - [ ] 3 Sum
 - [x] Container With Most Water
