@@ -9,7 +9,7 @@
 - [x] Maximum Product Subarray
 - [x] Find Minimum in Rotated Sorted Array
 - [x] Search in Rotated Sorted Array
-- [ ] 3 Sum
+- [x] 3 Sum
 - [x] Container With Most Water
 ___
 ## Binary
@@ -53,7 +53,7 @@ ___
 - [x] Reverse a Linked List
 - [x] Detect Cycle in a Linked List
 - [x] Merge Two Sorted Lists
-- [ ] Merge K Sorted Lists
+- [x] Merge K Sorted Lists
 - [x] Remove Nth Node From End Of List
 - [ ] Reorder List
 ___
