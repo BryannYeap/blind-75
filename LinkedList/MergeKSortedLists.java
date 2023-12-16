@@ -34,3 +34,26 @@ class Solution {
         }
     }
 }
+
+//===========================================================================================================
+
+class ShorterSolution {
+    public ListNode mergeKLists(ListNode[] lists) {
+        if (lists.length == 0) return null;
+
+        int min = Integer.MAX_VALUE;
+        int minListIndex = -1;
+        for (int i = 0; i < lists.length; i++) {
+            if (lists[i] == null) continue;
+            if (lists[i].val < min) {
+                min = lists[i].val;
+                minListIndex = i;
+            }
+        }
+
+        if (minListIndex == -1) return null;
+
+        lists[minListIndex] = lists[minListIndex].next;
+        return new ListNode(min, mergeKLists(lists));
+    }
+}

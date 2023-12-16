@@ -55,7 +55,7 @@ ___
 - [x] Merge Two Sorted Lists
 - [x] Merge K Sorted Lists
 - [x] Remove Nth Node From End Of List
-- [ ] Reorder List
+- [x] Reorder List
 ___
 ## Matrix
 - [ ] Set Matrix Zeroes
