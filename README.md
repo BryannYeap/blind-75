@@ -58,7 +58,7 @@ ___
 - [x] Reorder List
 ___
 ## Matrix
-- [ ] Set Matrix Zeroes
+- [x] Set Matrix Zeroes
 - [ ] Spiral Matrix
 - [x] Rotate Image
 - [ ] Word Search
