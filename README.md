@@ -20,7 +20,7 @@ ___
 - [ ] Reverse Bits
 ___
 ## Dynamic Programming
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
