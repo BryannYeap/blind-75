@@ -22,7 +22,7 @@ ___
 ## Dynamic Programming
 - [x] Climbing Stairs
 - [x] Coin Change
-- [ ] Longest Increasing Subsequence
+- [x] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
 - [ ] Word Break Problem
 - [ ] Combination Sum
