@@ -92,6 +92,6 @@ ___
 - [ ] Word Search II
 ___
 ## Heap
-- [ ] Merge K Sorted Lists
-- [ ] Top K Frequent Elements
+- [x] Merge K Sorted Lists
+- [x] Top K Frequent Elements
 - [ ] Find Median from Data Stream
