@@ -5,6 +5,7 @@
 - Merge K SortedLists
 - Palindromic Substrings
 - Group Anagrams
+- Binary Tree Level Order Traversal
 
 ## Could not solve
 - Maximum Subarray
