@@ -46,8 +46,6 @@ ___
 - [ ] Insert Interval
 - [ ] Merge Intervals
 - [ ] Non-overlapping Intervals
-- [ ] Meeting Rooms (Leetcode Premium)
-- [ ] Meeting Rooms II (Leetcode Premium)
 ___
 ## Linked List
 - [x] Reverse a Linked List
@@ -73,7 +71,6 @@ ___
 - [x] Valid Palindrome
 - [x] Longest Palindromic Substring
 - [x] Palindromic Substrings
-- [ ] Encode and Decode Strings (Leetcode Premium)
 ___
 ## Tree
 - [x] Maximum Depth of Binary Tree
