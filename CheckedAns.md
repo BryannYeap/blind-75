@@ -4,6 +4,7 @@
 - Remove Nth Node From End Of List
 - Merge K SortedLists
 - Palindromic Substrings
+- Group Anagrams
 
 ## Could not solve
 - Maximum Subarray

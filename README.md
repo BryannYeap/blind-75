@@ -62,11 +62,11 @@ ___
 - [x] Word Search
 ___
 ## String
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
 - [x] Valid Anagram
-- [ ] Group Anagrams
+- [x] Group Anagrams
 - [x] Valid Parentheses
 - [x] Valid Palindrome
 - [x] Longest Palindromic Substring
