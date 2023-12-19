@@ -83,7 +83,7 @@ ___
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [x] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
-- [ ] Lowest Common Ancestor of BST
+- [x] Lowest Common Ancestor of BST
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Add and Search Word
 - [ ] Word Search II
