@@ -85,7 +85,7 @@ ___
 - [ ] Kth Smallest Element in a BST
 - [x] Lowest Common Ancestor of BST
 - [ ] Implement Trie (Prefix Tree)
-- [ ] Add and Search Word
+- [x] Add and Search Word
 - [ ] Word Search II
 ___
 ## Heap
