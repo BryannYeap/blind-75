@@ -72,7 +72,7 @@ ___
 - [x] Valid Parentheses
 - [x] Valid Palindrome
 - [ ] Longest Palindromic Substring
-- [ ] Palindromic Substrings
+- [x] Palindromic Substrings
 - [ ] Encode and Decode Strings (Leetcode Premium)
 ___
 ## Tree
