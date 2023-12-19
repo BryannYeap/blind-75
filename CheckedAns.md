@@ -3,6 +3,7 @@
 - Merge Two Sorted Lists
 - Remove Nth Node From End Of List
 - Merge K SortedLists
+- Palindromic Substrings
 
 ## Could not solve
 - Maximum Subarray
