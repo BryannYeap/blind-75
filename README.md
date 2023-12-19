@@ -82,7 +82,7 @@ ___
 - [x] Subtree of Another Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [x] Validate Binary Search Tree
-- [ ] Kth Smallest Element in a BST
+- [x] Kth Smallest Element in a BST
 - [x] Lowest Common Ancestor of BST
 - [x] Implement Trie (Prefix Tree)
 - [x] Add and Search Word
