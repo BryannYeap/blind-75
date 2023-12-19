@@ -77,7 +77,7 @@ ___
 - [x] Same Tree
 - [x] Invert/Flip Binary Tree
 - [ ] Binary Tree Maximum Path Sum
-- [ ] Binary Tree Level Order Traversal
+- [x] Binary Tree Level Order Traversal
 - [ ] Serialize and Deserialize Binary Tree
 - [x] Subtree of Another Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
