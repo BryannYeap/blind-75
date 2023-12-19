@@ -84,7 +84,7 @@ ___
 - [x] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
 - [x] Lowest Common Ancestor of BST
-- [ ] Implement Trie (Prefix Tree)
+- [x] Implement Trie (Prefix Tree)
 - [x] Add and Search Word
 - [ ] Word Search II
 ___
