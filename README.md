@@ -28,7 +28,7 @@ ___
 - [x] Combination Sum
 - [x] House Robber
 - [x] House Robber II
-- [ ] Decode Ways
+- [x] Decode Ways
 - [x] Unique Paths
 - [x] Jump Game
 ___
