@@ -25,7 +25,7 @@ ___
 - [x] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
 - [ ] Word Break Problem
-- [ ] Combination Sum
+- [x] Combination Sum
 - [x] House Robber
 - [x] House Robber II
 - [ ] Decode Ways
@@ -38,9 +38,6 @@ ___
 - [ ] Pacific Atlantic Water Flow
 - [ ] Number of Islands
 - [ ] Longest Consecutive Sequence
-- [ ] Alien Dictionary (Leetcode Premium)
-- [ ] Graph Valid Tree (Leetcode Premium)
-- [ ] Number of Connected Components in an Undirected Graph (Leetcode Premium)
 ___
 ## Interval
 - [ ] Insert Interval
