@@ -42,7 +42,7 @@ ___
 ## Interval
 - [x] Insert Interval
 - [x] Merge Intervals
-- [ ] Non-overlapping Intervals
+- [x] Non-overlapping Intervals
 ___
 ## Linked List
 - [x] Reverse a Linked List
