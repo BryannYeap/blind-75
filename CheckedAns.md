@@ -6,6 +6,7 @@
 - Palindromic Substrings
 - Group Anagrams
 - Binary Tree Level Order Traversal
+- Insert Interval
 
 ## Could not solve
 - Maximum Subarray

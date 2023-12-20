@@ -40,8 +40,8 @@ ___
 - [ ] Longest Consecutive Sequence
 ___
 ## Interval
-- [ ] Insert Interval
-- [ ] Merge Intervals
+- [x] Insert Interval
+- [x] Merge Intervals
 - [ ] Non-overlapping Intervals
 ___
 ## Linked List

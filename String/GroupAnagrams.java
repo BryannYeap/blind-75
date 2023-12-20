@@ -29,7 +29,7 @@ class Solution {
             }
 
             if (!added) {
-            List<String> newLs = new ArrayList<>();
+                List<String> newLs = new ArrayList<>();
                 newLs.add(s);
                 res.add(newLs);
             }
