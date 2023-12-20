@@ -26,7 +26,7 @@ ___
 - [ ] Longest Common Subsequence
 - [ ] Word Break Problem
 - [ ] Combination Sum
-- [ ] House Robber
+- [x] House Robber
 - [ ] House Robber II
 - [ ] Decode Ways
 - [x] Unique Paths
