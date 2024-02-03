@@ -9,9 +9,9 @@
 - Insert Interval
 
 ## Could not solve
-- Maximum Subarray
-- Product of Array Except Self
-- Maximum Product Subarray
-- 3 Sum
+- Maximum Subarray (Retried another day and solved)
+- Product of Array Except Self (Retried another day and solved)
+- Maximum Product Subarray (Retried another day and solved)
+- 3 Sum (Retried another day and solved)
 - Find Median from Data Stream
-- Overlapping Intervals
+- Overlapping Intervals 
