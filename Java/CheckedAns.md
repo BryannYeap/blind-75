@@ -17,3 +17,4 @@
 - 3 Sum (Retried another day and solved)
 - Find Median from Data Stream
 - Overlapping Intervals
+- Longest Repeating Character Replacement
