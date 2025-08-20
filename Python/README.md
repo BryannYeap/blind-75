@@ -5,13 +5,14 @@
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock
 - [x] Flood Fill
-- [ ] Contains Duplicate
+- [x] Majority Element
+- [x] Contains Duplicate
 - [ ] Product of Array Except Self
-- [ ] Maximum Subarray
+- [x] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
-- [ ] 3 Sum
+- [x] 3 Sum
 - [ ] Container With Most Water
 
 ---
@@ -29,7 +30,7 @@
 
 ## Dynamic Programming
 
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
@@ -55,7 +56,7 @@
 
 ## Interval
 
-- [ ] Insert Interval
+- [x] Insert Interval
 - [ ] Merge Intervals
 - [ ] Non-overlapping Intervals
 
@@ -63,9 +64,10 @@
 
 ## Linked List
 
-- [ ] Reverse a Linked List
+- [x] Reverse a Linked List
 - [x] Detect Cycle in a Linked List
 - [x] Merge Two Sorted Lists
+- [x] Middle of the Linked List
 - [ ] Merge K Sorted Lists
 - [ ] Remove Nth Node From End Of List
 - [ ] Reorder List
@@ -83,7 +85,10 @@
 
 ## String
 
-- [ ] Longest Substring Without Repeating Characters
+- [x] Ransom Note
+- [x] Longest Palindrome
+- [x] Add Binary
+- [x] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
 - [x] Valid Anagram
@@ -97,11 +102,13 @@
 
 ## Tree
 
-- [ ] Maximum Depth of Binary Tree
+- [x] Maximum Depth of Binary Tree
+- [x] Balanced Binary Tree
+- [+] Diameter of Binary Tree
 - [ ] Same Tree
 - [x] Invert/Flip Binary Tree
 - [ ] Binary Tree Maximum Path Sum
-- [ ] Binary Tree Level Order Traversal
+- [x] Binary Tree Level Order Traversal
 - [ ] Serialize and Deserialize Binary Tree
 - [ ] Subtree of Another Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
@@ -116,6 +123,7 @@
 
 ## Heap
 
+- [x] K Closest Points to Origin
 - [ ] Merge K Sorted Lists
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
