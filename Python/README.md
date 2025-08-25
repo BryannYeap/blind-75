@@ -7,8 +7,9 @@
 - [x] Flood Fill
 - [x] Majority Element
 - [x] Contains Duplicate
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [x] Maximum Subarray
+- [x] Number of Islands     
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
@@ -31,7 +32,7 @@
 ## Dynamic Programming
 
 - [x] Climbing Stairs
-- [ ] Coin Change
+- [x] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
 - [ ] Word Break Problem
@@ -46,8 +47,8 @@
 
 ## Graph
 
-- [ ] Clone Graph
-- [ ] Course Schedule
+- [x] Clone Graph
+- [x] Course Schedule
 - [ ] Pacific Atlantic Water Flow
 - [ ] Number of Islands
 - [ ] Longest Consecutive Sequence
@@ -104,7 +105,8 @@
 
 - [x] Maximum Depth of Binary Tree
 - [x] Balanced Binary Tree
-- [+] Diameter of Binary Tree
+- [x] Diameter of Binary Tree
+- [x] Validate Binary Search Tree
 - [ ] Same Tree
 - [x] Invert/Flip Binary Tree
 - [ ] Binary Tree Maximum Path Sum
@@ -131,3 +133,4 @@
 ## Stack
 
 - [x] Implement Queue using Stacks
+- [x] Evaluate Reverse Polish Notation
